@@ -1,0 +1,1 @@
+python indexing.py $1 $2

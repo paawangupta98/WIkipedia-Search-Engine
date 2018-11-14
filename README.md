@@ -1,2 +1,2 @@
-# WIkipedia-Search-Engine
+# Wikipedia-Search-Engine
 Wikipedia Search Engine
